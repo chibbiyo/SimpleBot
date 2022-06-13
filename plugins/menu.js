@@ -35,7 +35,7 @@ let menu = `
 ┣ ඬ⃟💫 _${usedPrefix}imagen *[texto]*_
 ┣ ඬ⃟💫 _${usedPrefix}play *[texto]*_
 ┣ ඬ⃟💫 _${usedPrefix}play2 *[texto]*_
-┣ ඬ⃟💫 _${usedPrefix}yts *[texto]*_
+┣ ඬ⃟💫 _${usedPrefix}ytsearch *[texto]*_
 ┣ ඬ⃟💫 _${usedPrefix}ytmp3 *[url]*_
 ┣ ඬ⃟💫 _${usedPrefix}ytmp4 *[url]*_
 ┣ ඬ⃟💫 _${usedPrefix}tts *[lenguaje] [texto]*_
