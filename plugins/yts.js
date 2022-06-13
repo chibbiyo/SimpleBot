@@ -1,6 +1,6 @@
 let yts = require('yt-search')
 let handler = async (m, { text }) => {
-if (!text) return m.reply('Cari apa?')
+if (!text) return m.reply('Encuentra qué?')
 let results = await yts(text)
 let teks = results.all.map(v => {
 switch (v.type) {
